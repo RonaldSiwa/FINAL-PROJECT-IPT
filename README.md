@@ -43,7 +43,7 @@ https://templatemo.com/tm-567-nomad-force
                     <h1 class="text-white mt-5 mb-lg-4" data-aos="zoom-in" data-aos-delay="800">
                         Ronald Siwa
                     </h1>
-
+			 <P class="text-white mt-5 mb-lg-4">THANK YOU SIR JONAS FOR TEACHING US HOW TO USE HTML AND CSS IN CREATING WEBSITE</P>>
                     <p class="text-secondary-white-color" data-aos="fade-up" data-aos-delay="1000">
                          
                     </p>
